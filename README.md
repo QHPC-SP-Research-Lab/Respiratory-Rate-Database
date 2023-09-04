@@ -30,7 +30,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Understanding the Excel file</a>
+      <a href="#the-excel-file">Understanding the Excel file</a>
     
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -74,12 +74,6 @@ The database is organized according to the following structure:
 Inside each subfolder you will find 31 recordings following the CODE column of the <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.xlsx">Metadata.xlsx</a> file.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- The excel file -->
 ## Understanding the Excel file
 
@@ -103,8 +97,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -121,6 +113,8 @@ Project Link: [https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database
 
 Please cite this datbase as ..."An orthogonal non-negative matrix factorization approach for
 respiratory rate estimation using a wireless stethoscope"
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
