@@ -29,9 +29,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#the-excel-file">Understanding the Excel file</a>
-    
+    <li><a href="#the-excel-file">Understanding the Excel file</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#citing">Citing</a></li>
@@ -42,6 +40,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
+<a name="about-the-project"></a>
 ## About The Project
 
 Respiratory rate is a well-known descriptor of the health status of the respiratory system.
@@ -75,6 +74,7 @@ Inside each subfolder you will find 31 recordings following the CODE column of t
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- The excel file -->
+<a name="the-excel-file"></a>
 ## Understanding the Excel file
 
 The database is published along with an Excel file with the information about the subjects recorded.
@@ -91,6 +91,7 @@ In that file, you will find the following fields:
 </ul> 
 
 <!-- LICENSE -->
+<a name="license"></a>
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -98,6 +99,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
+<a name="contact"></a>
 ## Contact
 
 José Ranilla Pastor, QHPC group - ranilla@uniovi.es
@@ -109,6 +111,7 @@ Project Link: [https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CITING -->
+<a name="citing"></a>
 ## Citing
 
 Please cite this datbase as ..."An orthogonal non-negative matrix factorization approach for
@@ -117,6 +120,7 @@ respiratory rate estimation using a wireless stethoscope"
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
+<a name="acknowledgments"></a>
 ## Acknowledgments
 
 This project was supported by the following research programs:
