@@ -46,10 +46,30 @@
 
 Respiratory rate is a well-known descriptor of the health status of the respiratory system.
 In this repository, we offer a systematic and labelled set of auditory recordings of 31 (15 males, 16 females) subjects, aged between 18 and 25 years-old, breathing at 5 different respiratory rates with two different recording hardware.<br>
-Each recording takes 1 minute.
+Each recording takes 1 minute, and was registered at 4500 Hz, 1 channel, 32-bit resolution.
 Other information about the health history of each subject is also provided, along with some other demographic data as heigh and weight.
 
 The goal of this database is to ease the research and comparability of sounds of the respiratory system.
+
+The database is organized according to the following structure:
+<ul>
+  <li>Designed: recordings with the designed sthetoscope (ESP32 based, Littman bell, INMP441 microphone)</li>
+  <ul>
+  <li>8: recordings at 8 bpm</li>
+  <li>10: recordings at 10 bpm</li>
+  <li>12: recordings at 12 bpm</li>
+  <li>18: recordings at 18 bpm</li>
+  <li>20: recordings at 20 bpm</li>
+</ul> 
+  <li>Thinklabs: recordings with the commercial Thinklasb sthetoscope</li>
+  <ul>
+  <li>8: recordings at 8 bpm</li>
+  <li>10: recordings at 10 bpm</li>
+  <li>12: recordings at 12 bpm</li>
+  <li>18: recordings at 18 bpm</li>
+  <li>20: recordings at 20 bpm</li>
+</ul> 
+</ul> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
