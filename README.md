@@ -16,7 +16,7 @@
     <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.xlsx">View Metadata</a>
+    <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.md">View Metadata</a>
   </p>
 </div>
 
@@ -70,14 +70,14 @@ The database is organized according to the following structure:
 </ul> 
 </ul> 
 
-Inside each subfolder you will find 31 recordings following the CODE column of the <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.xlsx">Metadata.xlsx</a> file.
+Inside each subfolder you will find 31 recordings following the CODE column of the <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.md">Metadata.xlsx</a> file.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- The excel file -->
 <a name="the-excel-file"></a>
 ## Understanding the Excel file
 
-The database is published along with an Excel file with the information about the subjects recorded.
+The database is published along with an <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.xlsx">Excel file</a> with the information about the subjects recorded. You can see this information in a friendly mode <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.md">here</a>.
 In that file, you will find the following fields:
  <ul>
   <li>Code: Temporal signature of the recording. Last number indicates teh place of recording as 1: Jaén, 2: Uniovi</li>
