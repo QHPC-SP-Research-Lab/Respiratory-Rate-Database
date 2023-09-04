@@ -1,4 +1,4 @@
-Metadata:
+Metadata (you can download this data in Excel format <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.xlsx">here</a>)
 
 <table>
     <tr>
