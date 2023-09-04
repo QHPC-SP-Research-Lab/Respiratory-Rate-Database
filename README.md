@@ -53,7 +53,7 @@ The goal of this database is to ease the research and comparability of sounds of
 
 The database is organized according to the following structure:
 <ul>
-  <li>Designed: recordings with the designed sthetoscope (ESP32 based, Littman bell, INMP441 microphone)</li>
+  <li>Designed: recordings with the designed stethoscope (ESP32 based, Littman bell, INMP441 microphone)</li>
   <ul>
   <li>8: recordings at 8 bpm</li>
   <li>10: recordings at 10 bpm</li>
@@ -61,7 +61,7 @@ The database is organized according to the following structure:
   <li>18: recordings at 18 bpm</li>
   <li>20: recordings at 20 bpm</li>
 </ul> 
-  <li>Thinklabs: recordings with the commercial Thinklasb sthetoscope</li>
+  <li>Thinklabs: recordings with the commercial <a href="https://www.thinklabs.com/">Thinklasb stethoscope</a></li>
   <ul>
   <li>8: recordings at 8 bpm</li>
   <li>10: recordings at 10 bpm</li>
@@ -71,6 +71,7 @@ The database is organized according to the following structure:
 </ul> 
 </ul> 
 
+Inside each subfolder you will find 31 recordings following the CODE column of the <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/Metadata.xlsx">Metadata.xlsx</a> file.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
