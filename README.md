@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 José Ranilla Pastor, QHPC group - ranilla@uniovi.es
 
-Group Link: [https://pirweb.edv.uniovi.es/](QHPC Group)
+Group Link: [https://pirweb.edv.uniovi.es/] (QHPC Group)
 
 Project Link: [https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/](https://github.com/repo)
 
