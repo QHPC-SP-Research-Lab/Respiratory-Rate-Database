@@ -16,7 +16,7 @@
     <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/Metadata.xlsx">View Excel</a>
+    <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.xlsx">View Metadata</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@ The database is organized according to the following structure:
 </ul> 
 </ul> 
 
-Inside each subfolder you will find 31 recordings following the CODE column of the <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/Metadata.xlsx">Metadata.xlsx</a> file.
+Inside each subfolder you will find 31 recordings following the CODE column of the <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.xlsx">Metadata.xlsx</a> file.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
