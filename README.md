@@ -45,7 +45,7 @@
 
 Respiratory rate is a well-known acoustic biomarker of the health status of the respiratory system.
 In this repository, we offer a systematic and labelled set of auditory recordings of 31 (15 males, 16 females) subjects, aged between 18 and 25 years-old, breathing at five different respiratory rates, organized by breaths per minute (bpm), captured with two different recording hardware.<br>
-Each recording takes 1 minute, and was registered at 4500 Hz, 1 channel, 32-bit resolution.
+Each recording takes 1 minute, and was registered at 4500 Hz, one channel, 32-bit resolution.
 Adsitional information about the health history of each subject is also provided, along with some other demographic data as heigh and weight.
 
 The main objective of this dataset is to provide a set of reliably labeled sound signals at different respiratory rates so that they can be used by researchers to evaluate different algorithms applied to respiratory rate estimation from the analysis of sound respiratory signals.
