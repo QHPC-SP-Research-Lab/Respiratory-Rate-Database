@@ -8,10 +8,10 @@
     <img src="./image/icono.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Respiratory Rate Database</h3>
+  <h3 align="center">RRuJO atabase</h3>
 
   <p align="center">
-    An open-source audio database for respiratory rate estimation research
+    An open-source audio database for respiratory rate (RR) estimation research
     <br />
     <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database"><strong>Explore the docs »</strong></a>
     <br />
@@ -43,34 +43,41 @@
 <a name="about-the-project"></a>
 ## About The Project
 
-Respiratory rate is a well-known descriptor of the health status of the respiratory system.
-In this repository, we offer a systematic and labelled set of auditory recordings of 31 (15 males, 16 females) subjects, aged between 18 and 25 years-old, breathing at 5 different respiratory rates with two different recording hardware.<br>
+Respiratory rate is a well-known acoustic biomarker of the health status of the respiratory system.
+In this repository, we offer a systematic and labelled set of auditory recordings of 31 (15 males, 16 females) subjects, aged between 18 and 25 years-old, breathing at five different respiratory rates, organized by breaths per minute (bpm), captured with two different recording hardware.<br>
 Each recording takes 1 minute, and was registered at 4500 Hz, 1 channel, 32-bit resolution.
-Other information about the health history of each subject is also provided, along with some other demographic data as heigh and weight.
+Adsitional information about the health history of each subject is also provided, along with some other demographic data as heigh and weight.
 
-The goal of this database is to ease the research and comparability of sounds of the respiratory system.
+The main objective of this dataset is to provide a set of reliably labeled sound signals at different respiratory rates so that they can be used by researchers to evaluate different algorithms applied to respiratory rate estimation from the analysis of sound respiratory signals.
 
-The database is organized according to the following structure:
+The database is organized in folders according to the following structure:
 <ul>
-  <li>Designed: recordings with the designed stethoscope (ESP32 based, Littman bell, INMP441 microphone)</li>
+  <li>RRinervasO: recordings with the designed stethoscope (ESP32 based, Littman bell, INMP441 microphone)</li>
   <ul>
-  <li>8: recordings at 8 bpm</li>
-  <li>10: recordings at 10 bpm</li>
-  <li>12: recordings at 12 bpm</li>
-  <li>18: recordings at 18 bpm</li>
-  <li>20: recordings at 20 bpm</li>
+  <li>Folder named '8': recordings at 8 bpm</li>
+  <li>Folder named '10': recordings at 10 bpm</li>
+  <li>Folder named '12': recordings at 12 bpm</li>
+  <li>Folder named '18': recordings at 18 bpm</li>
+  <li>Folder named '20': recordings at 20 bpm</li>
 </ul> 
-  <li>Thinklabs: recordings with the commercial <a href="https://www.thinklabs.com/">Thinklasb stethoscope</a></li>
+  <li>ThinklabsO: recordings with the commercial <a href="https://www.thinklabs.com/">Thinklasb stethoscope</a></li>
   <ul>
-  <li>8: recordings at 8 bpm</li>
-  <li>10: recordings at 10 bpm</li>
-  <li>12: recordings at 12 bpm</li>
-  <li>18: recordings at 18 bpm</li>
-  <li>20: recordings at 20 bpm</li>
+  <li>Folder named '8': recordings at 8 bpm</li>
+  <li>Folder named '10': recordings at 10 bpm</li>
+  <li>Folder named '12': recordings at 12 bpm</li>
+  <li>Folder named '18': recordings at 18 bpm</li>
+  <li>Folder named '20': recordings at 20 bpm</li>
 </ul> 
 </ul> 
 
 Inside each subfolder you will find 31 recordings following the CODE column of the <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.md">Metadata.xlsx</a> file.
+
+Example 1. This figure shows an example of the signal XXX.wav, captured with the device XXX with a RR=10.
+Figure 1
+
+Example 2. This figure shows an example of the signal XXX.wav, captured with the device XXX with a RR=18.
+Figure 2
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- The excel file -->
@@ -80,14 +87,14 @@ Inside each subfolder you will find 31 recordings following the CODE column of t
 The database is published along with an <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.xlsx">Excel file</a> with the information about the subjects recorded. You can see this information in a friendly mode <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.md">here</a>.
 In that file, you will find the following fields:
  <ul>
-  <li>Code: Temporal signature of the recording. Last number indicates teh place of recording as 1: Jaén, 2: Uniovi</li>
-  <li>Age: Age in years</li>
-  <li>Sex: M: male, F: female</li>
-  <li>Smoker?: 0: no, 1: yes</li>
-  <li>Heigh: in cm</li>
-  <li>Weight: in Kg</li>
-  <li>Pathology? 1: yes, 0: no</li>
-  <li>Which one?</li>
+  <li>Code: Temporal signature of the recording by the following format: year (four digits), month (two digits), day (two digits), hour (two digits), minutes (two digits) and the research group that captured the recording (University of Jaén=1, University of Oviedo=2). Thus, as an example, a participant auscultating at the University of Jaén on February 5, 2023 at 17:42 (format 24h) would obtain the following code: 2023020517421.</li>
+  <li>Age (in years)</li>
+  <li>Sex (M = male, F = female)</li>
+  <li>Smoker? (0 = Non-smoker, 1 = Smoker)</li>
+  <li>Heigh (in cm)</li>
+  <li>Weight in Kg)</li>
+  <li>Status? (0 = Healthy, 1 = Sick)</li>
+  <li>Pathology:indicates what disease was the subject suffering from while being auscultated.</li>
 </ul> 
 
 <!-- LICENSE -->
@@ -113,15 +120,15 @@ Project Link: [https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database
 <!-- CITING -->
 <a name="citing"></a>
 ## Citing
-
-Please cite this datbase as ..."An orthogonal non-negative matrix factorization approach for
-respiratory rate estimation using a wireless stethoscope"
+When using this dataset please cite the following publication “An orthogonal non-negative matrix factorization approach for respiratory rate estimation using a wireless stethoscope” as the source.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 <a name="acknowledgments"></a>
 ## Acknowledgments
+
+This database has been supported in part under grant PID2020-119082RB-{C21,C22} funded by MCIN/AEI/10.13039/501100011033 of the Ministerio de Ciencia e Innovación de España
 
 This project was supported by the following research programs:
 
