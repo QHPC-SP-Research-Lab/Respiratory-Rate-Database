@@ -8,8 +8,8 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>Smoker?</td>
         <td>Heigh</td>
         <td>Weight</td>
-        <td>Pathology?</td>
-        <td>Which one?</td>
+        <td>Status</td>
+        <td>Pathology</td>
     </tr>
     <tr>
         <td>2023021316152</td>
@@ -19,7 +19,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>186</td>
         <td>83</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023021414502</td>
@@ -29,7 +29,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>151</td>
         <td>45</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023021713052</td>
@@ -39,7 +39,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>165</td>
         <td>60</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022016102</td>
@@ -49,7 +49,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>180</td>
         <td>77</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022018002</td>
@@ -59,7 +59,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>175</td>
         <td>80</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022210002</td>
@@ -69,7 +69,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>170</td>
         <td>74</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022210352</td>
@@ -79,7 +79,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>168</td>
         <td>61</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022211002</td>
@@ -89,7 +89,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>181</td>
         <td>75</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022212002</td>
@@ -99,7 +99,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>182</td>
         <td>76</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022213102</td>
@@ -109,7 +109,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>180</td>
         <td>60</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022710002</td>
@@ -119,7 +119,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>176</td>
         <td>85</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023030113002</td>
@@ -129,7 +129,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>159</td>
         <td>51</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023032712502</td>
@@ -139,7 +139,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>168</td>
         <td>60</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023030717301</td>
@@ -149,7 +149,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>179</td>
         <td>68</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023030718301</td>
@@ -159,7 +159,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>170</td>
         <td>69</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022410501</td>
@@ -169,7 +169,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>175</td>
         <td>60</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022412001</td>
@@ -179,7 +179,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>190</td>
         <td>80</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022311301</td>
@@ -189,7 +189,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>185</td>
         <td>70</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022310221</td>
@@ -199,7 +199,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>175</td>
         <td>70</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022309391</td>
@@ -209,7 +209,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>189</td>
         <td>108</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023031010301</td>
@@ -219,7 +219,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>184</td>
         <td>81</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022217141</td>
@@ -229,7 +229,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>174</td>
         <td>54</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022218451</td>
@@ -239,7 +239,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>173</td>
         <td>90</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023022219451</td>
@@ -249,7 +249,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>160</td>
         <td>45</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023030117431</td>
@@ -258,8 +258,8 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>0</td>
         <td>160</td>
         <td>59</td>
-        <td>1</td>
-        <td>Pneumonia in childhood</td>
+        <td>0</td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023030118491</td>
@@ -269,7 +269,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>170</td>
         <td>75</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023030317401</td>
@@ -279,7 +279,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>154</td>
         <td>82</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023030319441</td>
@@ -289,7 +289,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>163</td>
         <td>57</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023030818501</td>
@@ -299,7 +299,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>168</td>
         <td>106</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023031519451</td>
@@ -309,7 +309,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>179</td>
         <td>80</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023240317151</td>
@@ -319,7 +319,7 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>157</td>
         <td>45</td>
         <td>0</td>
-        <td></td>
+        <td>None</td>
     </tr>
     <tr>
         <td>2023042619451</td>
@@ -339,5 +339,6 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>155</td>
         <td>60</td>
         <td>0</td>
+        <td>None</td>
     </tr>
 </table>
