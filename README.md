@@ -8,7 +8,7 @@
     <img src="./image/icono.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">RRuJO atabase</h3>
+  <h3 align="center">RRuJO database</h3>
 
   <p align="center">
     An open-source audio database for respiratory rate (RR) estimation research
