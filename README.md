@@ -60,7 +60,7 @@ The database is organized in folders according to the following structure:
   <li>Folder named '18': recordings at 18 bpm</li>
   <li>Folder named '20': recordings at 20 bpm</li>
 </ul> 
-  <li>ThinklabsO: recordings with the commercial <a href="https://www.thinklabs.com/">Thinklasb stethoscope</a></li>
+  <li>ThinklabsO: recordings with the commercial <a href="https://www.thinklabs.com/">Thinklabs stethoscope</a></li>
   <ul>
   <li>Folder named '8': recordings at 8 bpm</li>
   <li>Folder named '10': recordings at 10 bpm</li>
@@ -72,11 +72,9 @@ The database is organized in folders according to the following structure:
 
 Inside each subfolder you will find 31 recordings following the CODE column of the <a href="https://github.com/QHPC-SP-Research-Lab/Respiratory-Rate-Database/blob/main/Metadata.md">Metadata.xlsx</a> file.
 
-Example 1. This figure shows an example of the signal XXX.wav, captured with the device XXX with a RR=10.
-Figure 1
+Example. This figure shows an example of the signal XXX.wav, belonging to the RRinervasO set, with a RR=10.
 
-Example 2. This figure shows an example of the signal XXX.wav, captured with the device XXX with a RR=18.
-Figure 2
+Figure 1
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,12 +87,12 @@ In that file, you will find the following fields:
  <ul>
   <li>Code: Temporal signature of the recording by the following format: year (four digits), month (two digits), day (two digits), hour (two digits), minutes (two digits) and the research group that captured the recording (University of Jaén=1, University of Oviedo=2). Thus, as an example, a participant auscultating at the University of Jaén on February 5, 2023 at 17:42 (format 24h) would obtain the following code: 2023020517421.</li>
   <li>Age (in years)</li>
-  <li>Sex (M = male, F = female)</li>
+  <li>Sex (M = Male, F = Female)</li>
   <li>Smoker? (0 = Non-smoker, 1 = Smoker)</li>
   <li>Heigh (in cm)</li>
   <li>Weight in Kg)</li>
   <li>Status? (0 = Healthy, 1 = Sick)</li>
-  <li>Pathology:indicates what disease was the subject suffering from while being auscultated.</li>
+  <li>Pathology: indicates what disease was the subject suffering from while being auscultated.</li>
 </ul> 
 
 <!-- LICENSE -->
@@ -128,8 +126,7 @@ When using this dataset please cite the following publication “An orthogonal n
 <a name="acknowledgments"></a>
 ## Acknowledgments
 
-This database has been supported in part under grant PID2020-119082RB-{C21,C22} funded by MCIN/AEI/10.13039/501100011033 of the Ministerio de Ciencia e Innovación de España
-
-This project was supported by the following research programs:
+This database has been supported in part under grant PID2020-119082RB-{C21,C22} funded by MCIN/AEI/10.13039/501100011033 of the Ministerio de Ciencia e Innovación de España, grant
+AYUD/2021/50994 funded by Gobierno del Principado de Asturias, Spain, and the QUANTUM SPAIN project funded by the Ministry of Economic Affairs and Digital Transformation of the Spanish Government and the European Union through the Recovery, Transformation and Resilience Plan - NextGenerationEU
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
