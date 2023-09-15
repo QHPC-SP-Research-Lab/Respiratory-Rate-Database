@@ -12,26 +12,6 @@ Metadata (you can download this data in Excel format <a href="https://github.com
         <td>Pathology</td>
     </tr>
     <tr>
-        <td>2023021316152</td>
-        <td>20</td>
-        <td>M</td>
-        <td>0</td>
-        <td>186</td>
-        <td>83</td>
-        <td>0</td>
-        <td>None</td>
-    </tr>
-    <tr>
-        <td>2023021414502</td>
-        <td>22</td>
-        <td>F</td>
-        <td>0</td>
-        <td>151</td>
-        <td>45</td>
-        <td>0</td>
-        <td>None</td>
-    </tr>
-    <tr>
         <td>2023021713052</td>
         <td>21</td>
         <td>F</td>
