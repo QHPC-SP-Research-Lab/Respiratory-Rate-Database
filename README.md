@@ -126,7 +126,7 @@ When using this dataset please cite the following publication “An orthogonal n
 <a name="acknowledgments"></a>
 ## Acknowledgments
 
-This database has been supported in part under grant PID2020-119082RB-{C21,C22} funded by MCIN/AEI/10.13039/501100011033 of the Ministerio de Ciencia e Innovación de España, grant
-AYUD/2021/50994 funded by Gobierno del Principado de Asturias, Spain, and the QUANTUM SPAIN project funded by the Ministry of Economic Affairs and Digital Transformation of the Spanish Government and the European Union through the Recovery, Transformation and Resilience Plan - NextGenerationEU
+This database has been supported in part under grant PID2020-119082RB-{C21,C22} funded by MCIN/AEI/10.13039/501100011033 of the Ministerio de Ciencia e Innovación de España, and grant
+AYUD/2021/50994 funded by Gobierno del Principado de Asturias, Spain.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
